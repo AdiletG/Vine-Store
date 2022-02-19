@@ -1,0 +1,8 @@
+@media all and (max-width: 1169px) {
+    .container-1{
+        width: 900px;
+    }
+    .header{
+        width: 800px ;
+    }
+}
